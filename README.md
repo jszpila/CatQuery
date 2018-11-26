@@ -100,6 +100,7 @@ None
 
 ##### Returns
 Array of cats, ordered by user's `lastSeenAt`, in descending order:
+
 | Fields    | Type   |
 |-----------|--------|
 | birthdate | Date   |
