@@ -1,6 +1,11 @@
 # CatQuery
 An API for cats!
 
+## Dependencies
+- MySQL  
+- Node.js
+
+
 ## Installation
 Do the usual:
 
